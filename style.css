@@ -1,12 +1,12 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: rgb(230, 12, 12);
+    background-color: rgb(12, 11, 11);
 }
 
 /* hero background image */
 .bgimage {
     height:100vh;
-    background-color: #0c0c0c;
+    background: url('images/heroImage.jpeg');
     background-size:cover;
     position:relative;
 }
@@ -74,4 +74,10 @@
 #footer {
     background-color: #3f12df;
     text-align: center;
+}
+#articles
+image {
+        font-size: 30px;
+        text-align: center;
+        width: 100%;
 }
